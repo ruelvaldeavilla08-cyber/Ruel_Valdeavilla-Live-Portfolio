@@ -99,8 +99,8 @@ export const PROJECTS: readonly Project[] = [
     summary:
       'This site: a HTML, CSS, Javascript, React and TypeScript portfolio where each section is an animated folder.',
     stack: ['HTML', 'CSS', 'JavaScript', 'React', 'TypeScript'],
-    github: 'https://github.com/your-username/portfolio',
-    demo: 'https://your-username.github.io/portfolio',
+    github: 'https://github.com/ruelvaldeavilla08-cyber/Ruel_Valdeavilla-Live-Portfolio',
+    demo: 'https://ruelvaldeavilla08-cyber.github.io/Ruel_Valdeavilla-Live-Portfolio/',
   },
   {
     title: 'Inventory Database',
